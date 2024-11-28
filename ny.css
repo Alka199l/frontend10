@@ -1,0 +1,31 @@
+.navi {
+  display: flex;
+  justify-content: center;
+  row-gap: 3px;
+  margin: auto;
+}
+.times {
+  display: flex;
+  justify-content: center;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+}
+/* .leftHeader {
+  
+}  */
+/* .left { */
+/* display: flex; */
+/* } */
+.mid {
+  /* display: flex; */
+  justify-content: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.right {
+  /* padding: 30px; */
+}
+/* .newyork {
+  font-size: larger;
+} */
